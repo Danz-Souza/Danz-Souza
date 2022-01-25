@@ -11,7 +11,7 @@
 - ⚡ Fun fact: ...
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danz-Souza&layout=compact&langs_count=7&theme=dracula"/>
-  
+<img align="center" alt="Danz-Php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"  
 -->
 
 - 🌱 Estou aprendendo: Python e PHP
@@ -23,17 +23,17 @@
 
 
 </div> 
- 
-<div style="display: inline_block"><br>
+
+## 🛠   Skills
   
-<img align="center" alt="Danz-Premiere" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-<img align="center" alt="Danz-Premiere" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+<img align="center" alt="Danz-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+-
 <img align="center" alt="Danz-Premiere" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg">
   
   <img align="right" alt="Danz-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/804080791184736309/935170038976110652/Danz.gif">
 </div>
  
-##
+## 💻   Social Links
 
 <div>
   <a href="https://www.linkedin.com/in/danzsouza/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
