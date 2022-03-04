@@ -14,7 +14,7 @@
 <img align="center" alt="Danz-Php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"  
 -->
 
-- 🌱 Estou aprendendo: Front-End css, html e JS
+- 🌱 Estou aprendendo: css, html,JS e Python
 - 😄 Pronomes: Ele/dele
 
 <div align="center">
