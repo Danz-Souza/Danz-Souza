@@ -25,7 +25,8 @@
   
 
  
-#<img align="right" alt="Danz-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/804080791184736309/935170038976110652/Danz.gif"># 🛠   Skills 
+## 🛠   Skills
+  <img align="right" alt="Danz-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/804080791184736309/935170038976110652/Danz.gif">
       
 <img align="center" alt="Danz-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 -
