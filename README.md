@@ -6,12 +6,12 @@
 </div>
   
 <div style="display: inline_block"><br>
-    <img align="center" alt="Danz-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="Danz-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Danz-Premiere" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg">
   <img align="center" alt="Danz-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Danz-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Danz-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Danz-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/804080791184736309/935170038976110652/Danz.gif?width=676&height=676" >
+  <img align="right" alt="Danz-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/804080791184736309/935170038976110652/Danz.gif">
 </div>
   
   ##
