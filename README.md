@@ -22,8 +22,6 @@
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danz-Souza&layout=compact&langs_count=7&theme=dracula"/>
 </div> 
 
-  
-
  
 ## 🛠   Skills
   <img align="right" alt="Danz-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/804080791184736309/935170038976110652/Danz.gif">
