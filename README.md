@@ -16,7 +16,11 @@
 
 - 🌱 Estou aprendendo: css, html,JS e Python
 - 😄 Pronomes: Ele/dele
-
+<div align="center">
+  <a href="https://github.com/Danz-Souza">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Danz-Souza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danz-Souza&layout=compact&langs_count=7&theme=dracula"/>
+</div> 
 
   
 
