@@ -4,7 +4,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Danz-Souza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danz-Souza&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-  ## 
+  
+  ##
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="Danz-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Danz-Premiere" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg">
@@ -15,6 +17,7 @@
   <img align="center" alt="Danz-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg":
   <img align="right" alt="Danz-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/804080791184736309/935170038976110652/Danz.gif?width=676&height=676">
 </div>
+  
   ##
  
 <div> 
